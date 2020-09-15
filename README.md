@@ -1,9 +1,10 @@
-# Competitive_Programming
+# Competitive Programming
+***
 
-Handle:
+# Handle:
 
-CodeChef: https://www.codechef.com/users/nirdosh_gandhi
+* ## CodeChef: https://www.codechef.com/users/nirdosh_gandhi
 
-HackeRank: https://www.hackerrank.com/nirdosh_gandhi
+* ## HackeRank: https://www.hackerrank.com/nirdosh_gandhi
 
-SPOJ: https://www.spoj.com/users/nirdosh_gandhi/
+* ## SPOJ: https://www.spoj.com/users/nirdosh_gandhi/
